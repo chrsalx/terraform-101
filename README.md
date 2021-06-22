@@ -32,3 +32,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Terraform 101
+
+Este repo contiene el código mostrado durante la presentación "El Brew: Terraform 101" de @fria.js
+
+Todo el código que se mostró durante la presentación está accesible desde el `main` branch de este repo.
+
+## Requisitos
+
+Para jugar con este repo vas a necesitar instalar las siguientes herramientas:
+
+- Terraform v0.15+
+- Node.js v14+
+- NPM v7+
+
+
+## Uso
+El código de terraform está en el directorio `terraform`, el resto del código es el website por defecto al utilizar `npx create-next-app`.
+
+## Video
+Aquí el video donde se presentó el código
+
+[![Link al video de YouTube](https://i.ytimg.com/vi/Gw3-lVAYOpk/maxresdefault.jpg?v=60d24142)](https://bit.ly/fjs-t101)

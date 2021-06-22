@@ -1,0 +1,39 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/aegirhealth/netlify" {
+  version     = "0.6.12"
+  constraints = "0.6.12"
+  hashes = [
+    "h1:jxwM1OF+hiLFupmFstKmKGBjjSQ96HZVCozeMZN3lG8=",
+    "zh:0ad8985b4f0a2eac7fe20a4364f0f5aa74aa5b9d51582bf844aad310fa8265ed",
+    "zh:21970987839c7370c7e9774de2acad2fdb99fe09751bb24f6a14e4df7c592d5d",
+    "zh:33d2132f59eddd7148dd8d1301247a347aa85958d309e45b4a40bb655218f637",
+    "zh:39585e4c528657c26a8b0d9aa6254ea3f66ce78097acd4c562d190933232e074",
+    "zh:741b264545f929a53f506ec061cb727244362a81da4ddc53fdafd03233cd8fc7",
+    "zh:963b8d1755b8f41ab5097acf248762803c8b7b25705c0ab5d26821a025a969da",
+    "zh:a0eedce9453bfe2277245a02a120774e5b973f091452160260968619a81914f6",
+    "zh:b6f20c8b209ab2f7154c18c78268878f05a12e588e9c8c97459c8a16e52861fa",
+    "zh:c953d3a481580d152e0860fa7bb61e0f3ef3158cf865207d9c673427fa80f0f3",
+    "zh:e5b76aa219ee4e4efe36676f26752e3439b5b1facff67317e91b7edb1e079693",
+    "zh:ec9e72decbdac77d64f3885899eeb1301159b168db4f43d916f81486c694cdc6",
+  ]
+}
+
+provider "registry.terraform.io/hashicorp/null" {
+  version = "3.1.0"
+  hashes = [
+    "h1:xhbHC6in3nQryvTQBWKxebi3inG5OCgHgc4fRxL0ymc=",
+    "zh:02a1675fd8de126a00460942aaae242e65ca3380b5bb192e8773ef3da9073fd2",
+    "zh:53e30545ff8926a8e30ad30648991ca8b93b6fa496272cd23b26763c8ee84515",
+    "zh:5f9200bf708913621d0f6514179d89700e9aa3097c77dac730e8ba6e5901d521",
+    "zh:9ebf4d9704faba06b3ec7242c773c0fbfe12d62db7d00356d4f55385fc69bfb2",
+    "zh:a6576c81adc70326e4e1c999c04ad9ca37113a6e925aefab4765e5a5198efa7e",
+    "zh:a8a42d13346347aff6c63a37cda9b2c6aa5cc384a55b2fe6d6adfa390e609c53",
+    "zh:c797744d08a5307d50210e0454f91ca4d1c7621c68740441cf4579390452321d",
+    "zh:cecb6a304046df34c11229f20a80b24b1603960b794d68361a67c5efe58e62b8",
+    "zh:e1371aa1e502000d9974cfaff5be4cfa02f47b17400005a16f14d2ef30dc2a70",
+    "zh:fc39cc1fe71234a0b0369d5c5c7f876c71b956d23d7d6f518289737a001ba69b",
+    "zh:fea4227271ebf7d9e2b61b89ce2328c7262acd9fd190e1fd6d15a591abfa848e",
+  ]
+}
